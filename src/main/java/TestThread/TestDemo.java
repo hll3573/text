@@ -60,6 +60,12 @@ public class TestDemo {
                 }
             }
         }, "aa").start();
+
+        System.out.println("123123123");
+        System.out.println("123123123");
+        System.out.println("123123123");
+        System.out.println("123123123");
+
         new Thread(new Runnable() {
             @Override
             public void run() {

@@ -35,5 +35,9 @@ public class ThreadDemo01 {
         new Thread(() -> {num.run();},"aa").start();
         new Thread(() -> {num.run();},"bb").start();
         new Thread(() -> {num.run();},"cc").start();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 }

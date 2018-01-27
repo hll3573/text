@@ -29,6 +29,16 @@ class Num1 {
 
         }finally {
             lock.unlock();
+            System.out.println("test pull");
+            System.out.println("test pull01");
+            System.out.println("test pull01");
+            System.out.println("test pull01");
+            System.out.println("test pull01");
+            System.out.println();
+            System.out.println();
+            System.out.println();
+            System.out.println();
+            System.out.println();
         }
     }
 

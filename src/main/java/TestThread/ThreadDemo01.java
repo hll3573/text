@@ -46,5 +46,11 @@ public class ThreadDemo01 {
         System.out.println();
         System.out.println();
         System.out.println();
+
+        System.out.println("111111");
+        System.out.println("111111");
+        System.out.println("111111");
+        System.out.println();
+
     }
 }
